@@ -135,8 +135,8 @@ button#detect-speed {
   display: block;
   padding: 0.35em 0.75em;
   outline: none;
-  background: #8e09c7;
-  border: 1px solid #9000ff;
+  background: #b300ff;
+  border: 1px solid #863bbe;
   box-shadow: 0px 0px 5px #bf00ffa3;
   color: #fff;
   font-weight: 600;
@@ -145,8 +145,8 @@ button#detect-speed {
 }
 button#detect-speed:hover,
 button#detect-speed:focus{
-  background: #8444ab;
-  border: 1px solid #a600ff;
+  background: #5f1f7a;
+  border: 1px solid #863bbe;
   box-shadow: 0px 0px 5px #7700ffaa;
 }
 button#detect-speed[disabled] {
