@@ -59,7 +59,7 @@ detectSpeedBtn.addEventListener('click', e => {
                     kbpsEl.innerText = kbps.toLocaleString('pt-BR',{style:'decimal', maximumFractionDigits:2})
                     mbpsEl.innerText = mbps.toLocaleString('pt-BR',{style:'decimal', maximumFractionDigits:2})
                     detectSpeedBtn.disabled = false
-                    detectSpeedBtn.innerText = `Testar Novamente`
+                    detectSpeedBtn.innerText = `retest`
                     loaderEl.style.display = `none`
                 }
             }
