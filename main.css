@@ -22,7 +22,7 @@ body{
   justify-content: center;
   min-height: 100vh;
   background: #0c4a4a;
-  background-image: linear-gradient(to right, #3b085f 0%, rgb(0, 0, 0) 100%);
+  background-image: linear-gradient(to right, #084a5f 0% 0%, rgb(138 141 183) 100%);
 }
 #page-title{
   color: #fff;
